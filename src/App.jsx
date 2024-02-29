@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <Header 
-          prop="Adopta un perrito"
+          title="Adopta un perrito"
         />
       </div>
     </>
