@@ -1,9 +1,10 @@
 import Badge from 'react-bootstrap/Badge';
+import "./Tags.css"
 
 function Tags({text, backgroundColor}) {
   return (
     <>
-      <Badge bg={backgroundColor}>{text}</Badge>
+      <Badge className="dog-badge" bg={backgroundColor}>{text}</Badge>
     </>
   )
 }

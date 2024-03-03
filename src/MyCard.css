@@ -1,0 +1,26 @@
+.card-container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -90px;
+}
+
+.dog-image{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+}
+
+.dog-name{
+    font-size:20px;
+    font-weight: 600;
+}
+
+.dog-description{
+    font-size:15px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
